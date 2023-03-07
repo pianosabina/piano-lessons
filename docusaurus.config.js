@@ -60,8 +60,9 @@ const config = {
   ],
 
   themeConfig:
+
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-      ({
+      ({ metadata: [{name: 'keywords', content: 'piano, blog, piano lessons, music'}],
           colorMode: {
               defaultMode: 'dark',
               disableSwitch: true,

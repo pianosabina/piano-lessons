@@ -61,10 +61,6 @@
    */
 }
 
-.lmtWIHO_gkbTeeyuvoJC.mOUYF5ZmuNL6I7t0mSFg {
-    background-color: #0A0D1E;
-}
-
 
 .pagination-nav__sublabel {
     font-family: 'Silkscreen', cursive;
@@ -77,12 +73,12 @@
 }
 
 .sidebarItemTitle_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
-    font-family: 'Silkscreen', cursive;
+    font-family: 'Oswald', sans-serif;
 
 }
 
 .sidebarItemLink_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
-    font-family: 'Silkscreen', cursive;
+    font-family: 'Oswald', sans-serif;
 
 }
 
@@ -181,9 +177,6 @@ h3 {
 }
 
 
-
-
-
 .markdown p img {
     max-width: 100%;
     border: 1px solid #ffffff;
@@ -263,3 +256,8 @@ h3 {
 }
 
 
+.navbar__logo img {
+  height: 70%;
+  margin-top: -10px;
+  margin-right: 10px;
+}
