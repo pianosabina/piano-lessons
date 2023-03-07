@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpiano_lessons=self.webpackChunkpiano_lessons||[]).push([[4341],{9830:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/piano-lessons/blog/tags/hello","allTagsPath":"/piano-lessons/blog/tags","count":1}')}}]);

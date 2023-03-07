@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpiano_lessons=self.webpackChunkpiano_lessons||[]).push([[5800],{7273:s=>{s.exports=JSON.parse('{"permalink":"/piano-lessons/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
