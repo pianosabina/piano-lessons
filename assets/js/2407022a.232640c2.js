@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpiano_lessons=self.webpackChunkpiano_lessons||[]).push([[3972],{4469:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
