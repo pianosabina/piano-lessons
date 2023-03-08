@@ -106,6 +106,7 @@
 .indexTryMeButton {
     border: 2px solid var(--ifm-color-primary);
     margin: 20px;
+    font-family: 'Silkscreen', cursive;
     display: inline-block;
     line-height: 1.2em;
     text-decoration: none !important;

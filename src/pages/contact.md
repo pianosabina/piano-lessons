@@ -8,14 +8,9 @@ title: Contact
 </div>
 <br/>
 
+💌 For any questions, suggestions, free tips and/or business enquiries, email me on:
 
+> pianowithsabina@gmail.com
 
-# You can email me on:
-> # me@piano.com
-This is where you can contact me for questions or business enquiries.
-
-Let's Get In Touch!
-
-I look forward to hearing from you!
-
+Looking forward to hearing from you! 🤩✨
 

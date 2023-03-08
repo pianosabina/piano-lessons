@@ -121,40 +121,30 @@ const config = {
       },
       footer: {
         style: 'light',
-        // links: [
-        //   {
-        //     // title: 'Docs',
-        //     items: [
-        //       {
-        //         label: 'Tutorial',
-        //         to: '/docs/intro',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     // title: 'Community',
-        //     items: [
-        //       {
-        //         label: 'Twitter',
-        //         href: 'https://twitter.com/docusaurus',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     // title: 'More',
-        //     items: [
-        //       {
-        //         label: 'Journal',
-        //         to: '/journal',
-        //       },
-        //     //   {
-        //     //     label: 'GitHub',
-        //     //     href: 'https://github.com/facebook/docusaurus',
-        //     //   },
-        //     ],
-        //   },
-        // ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus by Kristijan Bakaric`,
+    //       links: [
+    //          {
+
+    //     items: [
+    //       {
+    //         html: `
+    //             <div  class="col-sm-12" align="right">
+    //             <div>  PIANOUNDERVISNING SABINA ALIVODIC  </div>
+    //             <div>ORG. NR: 925820636</div>
+    //             <div>Maridalsveien 175, 0469 Oslo</div>
+    //             <div>Pianowithsabina@gmail.com </span></div>
+    //             </div>
+    //           `,
+    //       },
+    //     ],
+    //   },
+    //     ],
+        copyright: ` <div  class="col-sm-12" align="center">
+                <div>  PIANOUNDERVISNING SABINA ALIVODIC  </div>
+                <div>ORG. NR: 925820636</div>
+                <div>Maridalsveien 175, 0469 Oslo</div>
+                <div>Pianowithsabina@gmail.com </span></div>
+                <br>
+                </div> Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus by Kristijan Bakaric`,
       },
       prism: {
         theme: lightCodeTheme,
