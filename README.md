@@ -65,7 +65,7 @@ By default, a browser window will open at `http://localhost:3000`
 
 ### Project Structure
 
-- `/docs/` - Contains the Markdown files for the docs. Customize the order of the docs sidebar in sidebars.js. More details can be found in the [docs guide](https://docusaurus.io/docs/markdown-features)
+- `/docs/` - Contains the Markdown files for the docs. More details can be found in the [docs guide](https://docusaurus.io/docs/markdown-features)
 
 - `/src/` - Non-documentation files like pages or custom React components. You don't have to strictly put your non-documentation files in here but putting them under a centralized directory makes it easier to specify in case you need to do some sort of linting/processing.
   - `/pages/` - Any files within this directory will be converted into a website page. More details can be found in the [pages guide](https://docusaurus.io/docs/creating-pages)
@@ -76,6 +76,6 @@ By default, a browser window will open at `http://localhost:3000`
 
 - `/package.json` -  A Docusaurus website is a React app. You can install and use any npm packages you like in them.
 
-- `/sidebar.js` - Used by the documentation to specify the order of documents in the sidebar
-
 - `CNAME` file - that is only relevant if you are going to have a custom subdomain, and not a default github pages. This file contains the url to the subdomain that was created, in our case via AWS, and it is important that the file is located under `static` folder since after the build it will be located under the `root` of the site on `gh-pages` branch, otherwise every time you build the site, the AWS configuration will be cleared up, and that is not good if you want to automate the entire workflow.
+
+
