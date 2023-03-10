@@ -3,9 +3,11 @@
 
 ## Prerequisites
 
-:::note
+
 Keep in mind that I am developing on WSL2, Ubuntu-20.04.
-:::
+
+
+To do small multi-file edits you can use a [web-editor](https://github.dev/pianosabina/piano-lessons).
 
 Entire workflow and setup is build with:
 

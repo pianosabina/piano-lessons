@@ -1,5 +1,5 @@
 # build stage
-FROM node:12 AS build
+FROM node:18 AS build
 USER root
 RUN mkdir /home/node/code
 WORKDIR /home/node/code
