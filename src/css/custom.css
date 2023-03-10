@@ -63,9 +63,12 @@
 }
 
 
+.navbar-sidebar__back {
+  font-family: 'Silkscreen', cursive;
+}
+
 .pagination-nav__sublabel {
     font-family: 'Silkscreen', cursive;
-
 }
 
 .pagination-nav__label {
