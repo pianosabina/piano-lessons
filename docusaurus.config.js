@@ -142,7 +142,7 @@ const config = {
                 <div>  PIANOUNDERVISNING SABINA ALIVODIC  </div>
                 <div>ORG. NR: 925820636</div>
                 <div>Maridalsveien 175, 0469 Oslo</div>
-                <div>Pianowithsabina@gmail.com </span></div>
+                <div>pianowithsabina@gmail.com </span></div>
                 <br>
                 </div> Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus by Kristijan Bakaric`,
       },
