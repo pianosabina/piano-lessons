@@ -5,8 +5,8 @@
  */
 
 
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=block');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=block');
 
 /* You can override the default Infima variables here. */
 :root {
