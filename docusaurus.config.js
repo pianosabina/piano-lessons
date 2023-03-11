@@ -62,7 +62,7 @@ const config = {
   themeConfig:
 
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-      ({ metadata: [{name: 'keywords', content: 'piano, blog, piano lessons, music'}],
+      ({ metadata: [{name: 'keywords', content: 'piano, blog, piano lessons, music, sabina alivodic, pianoundervisning, pianotimer'}],
           colorMode: {
               defaultMode: 'dark',
               disableSwitch: true,
