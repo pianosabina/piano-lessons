@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpiano_lessons=self.webpackChunkpiano_lessons||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Test","permalink":"/blog/test-kbaka"},{"title":"Welcome","permalink":"/blog/welcome"},{"title":"First Blog Post","permalink":"/blog/first-blog-post"}]}')}}]);

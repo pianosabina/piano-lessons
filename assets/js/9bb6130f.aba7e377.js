@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpiano_lessons=self.webpackChunkpiano_lessons||[]).push([[4450],{631:s=>{s.exports=JSON.parse('{"label":"writeasong","permalink":"/blog/tags/writeasong","allTagsPath":"/blog/tags","count":1}')}}]);
