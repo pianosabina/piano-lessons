@@ -80,14 +80,14 @@ export default function HomepageFeatures() {
                         <Translate>Book a Lesson</Translate>
                     </Link>
 
-                    <Link className={
+                    {/* <Link className={
                             styles.indexCtasGetStartedButton
                         }
                         to={
                             useBaseUrl('blog/')
                     }>
                         <Translate>Journal</Translate>
-                    </Link>
+                    </Link> */}
 
 
                     <br></br>

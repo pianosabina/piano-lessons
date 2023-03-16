@@ -45,13 +45,13 @@ const config = {
         //   editUrl:
         //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        // //   editUrl:
+        // //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -84,7 +84,7 @@ const config = {
         //     label: 'Book a lesson',
         //   },
             { to: '/booking', label: 'Book a lesson', position: 'left' },
-            { to: '/blog', label: 'Journal', position: 'left' },
+            // { to: '/blog', label: 'Journal', position: 'left' },
             { to: '/about', label: 'About', position: 'right' },
             { to: '/contact', label: 'Contact', position: 'right' },
           {
