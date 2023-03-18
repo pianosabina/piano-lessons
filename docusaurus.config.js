@@ -131,7 +131,7 @@ const config = {
     //             <div>  PIANOUNDERVISNING SABINA ALIVODIC  </div>
     //             <div>ORG. NR: 925820636</div>
     //             <div>Maridalsveien 175, 0469 Oslo</div>
-    //             <div>Pianowithsabina@gmail.com </span></div>
+    //             <div>post@pianosabina.com </span></div>
     //             </div>
     //           `,
     //       },
