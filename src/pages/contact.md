@@ -10,7 +10,7 @@ title: Contact
 
 💌 For any questions, suggestions, free tips and/or business enquiries, email me on:
 
-> pianowithsabina@gmail.com
+> post@pianosabina.com
 
 Looking forward to hearing from you! 🤩✨
 
