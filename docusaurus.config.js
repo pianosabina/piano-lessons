@@ -112,7 +112,7 @@ const config = {
             "aria-label": "Instagram",
             },
           {
-            href: "https://soundcloud.com/sabinaasa ",
+            href: "https://soundcloud.com/sabinaalivodic ",
             position: "right",
             className: "header-soundcloud-link",
             "aria-label": "Soundcloud",
