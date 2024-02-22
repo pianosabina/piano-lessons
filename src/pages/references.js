@@ -3,10 +3,10 @@ import React from 'react';
 import PhotoGallery from '../components/PhotoGallery'; // Adjust the path as necessary
 
 const images = [
-  { src: '/img/ref1.jpg'},
-  { src: '/img/ref2.jpg'},
-  { src: '/img/ref3.jpg'},
-  { src: '/img/ref4.jpg'},
+  { src: '/img/ref1.png'},
+  { src: '/img/ref2.png'},
+  { src: '/img/ref3.png'},
+  { src: '/img/ref4.png'},
   // Add more images as necessary
 ];
 
@@ -14,7 +14,7 @@ function Register() {
   return (
     <Layout title="Register">
       <div>
-        <h1> -References- </h1>
+        {/* <h1> -References- </h1> */}
         {/* Use the gallery component with the images array */}
         <PhotoGallery images={images} />
       </div>
