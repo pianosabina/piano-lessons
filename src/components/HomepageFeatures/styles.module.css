@@ -187,3 +187,25 @@
         display: none;
     }
 }
+
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adjust the gap as needed */
+    margin-bottom: 20px; /* Adds space between rows */
+}
+
+.indexTryMeButton {
+    /* Your existing button styles */
+    width: 325px; /* Example fixed width, adjust as needed */
+    display: inline-block; /* Ensures the width is applied */
+    text-align: center; /* Centers the text inside the button */
+    padding: 10px 0; /* Example padding, adjust for your design */
+}

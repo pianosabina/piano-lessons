@@ -1,9 +1,8 @@
-import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Layout from '@theme/Layout';
+import clsx from 'clsx';
+import React from 'react';
 
 
 
@@ -29,7 +28,7 @@ export default function Home() {
   return (
     <Layout
       title = {"Piano With Sabina Alivodic"}
-      description="Description will go into a meta tag in <head />">
+      description="">
       <HomepageHeader />
       <main>
       <HomepageFeatures />
