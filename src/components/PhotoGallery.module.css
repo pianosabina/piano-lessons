@@ -1,0 +1,10 @@
+#photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; /* Adjust the gap as needed */
+}
+
+#photo-gallery .photo-item {
+  width: 100%; /* Forces each photo to take the full width of the container */
+  box-sizing: border-box; /* Ensures padding and border are included in the width */
+}

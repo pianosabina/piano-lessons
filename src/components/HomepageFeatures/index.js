@@ -1,15 +1,15 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import Translate from '@docusaurus/Translate';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import clsx from 'clsx';
+import React from 'react';
+import styles from './styles.module.css';
 
 
 const FeatureList = [
     {
         title: '',
-        button: 'Book a Lesson',
+        button: 'Booking',
         path: '/booking',
         // Svg: require('@site/static/img/aboutneon.svg').default,
         description: (
@@ -64,45 +64,30 @@ function Feature({title, button, path, description}) {
 
 export default function HomepageFeatures() {
     return (
-        <section className={
-            styles.features
-        }>
-            <div className="container text--center ">
+        <section className={styles.features}>
+            <div className="container text--center">
                 <h1></h1>
-                <div>
-
-                    <Link className={
-                            clsx('margin-left--md', styles.indexTryMeButton)
-                        }
-                        to={
-                            useBaseUrl('booking/')
-                    }>
-                        <Translate>Book a Lesson</Translate>
-                    </Link>
-
-                    {/* <Link className={
-                            styles.indexCtasGetStartedButton
-                        }
-                        to={
-                            useBaseUrl('blog/')
-                    }>
-                        <Translate>Journal</Translate>
-                    </Link> */}
-
-
-                    <br></br>
-                    <br></br>
-
-
+                <div className="button-container">
+                    <div className="button-row">
+                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('booking/')}>
+                            <Translate>Booking</Translate>
+                        </Link>
+                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('register/')}>
+                            <Translate>Meld på/Register</Translate>
+                        </Link>
+                    </div>
+                    <div className="button-row">
+                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('offers/')}>
+                            <Translate>Tilbud/Offers</Translate>
+                        </Link>
+                    </div>
                 </div>
                 <div className="container">
                     <div className="row">
-                        {
-                        FeatureList.map((props, idx) => (
-                            <Feature key={idx}
-                                {...props}/>
-                        ))
-                    } </div>
+                        {FeatureList.map((props, idx) => (
+                            <Feature key={idx} {...props} />
+                        ))}
+                    </div>
                 </div>
             </div>
         </section>
