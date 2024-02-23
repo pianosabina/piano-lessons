@@ -3,10 +3,9 @@ import React from 'react';
 import PhotoGallery from '../components/Offers'; // Adjust the path as necessary
 
 const images = [
-  { src: '/img/ref1.png'},
-  { src: '/img/ref2.png'},
-  { src: '/img/ref3.png'},
-  { src: '/img/ref4.png'},
+  { src: '/img/offer1.png'},
+  { src: '/img/offer2.png'},
+  { src: '/img/offer3.png'},
   // Add more images as necessary
 ];
 
