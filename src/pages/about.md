@@ -1,5 +1,5 @@
 ---
-title: About
+title: Om/about
 ---
 
 # About
@@ -13,11 +13,11 @@ Hey👋🏼,
 Welcome to my website.
 &nbsp;
 
-Here you can quickly book a piano lesson with me. 
+Here you can quickly book a piano lesson with me.
 
 &nbsp;
 
-Otherwise, my name is Sabina. I’m highly educated and skilled in the field of music. 
+Otherwise, my name is Sabina. I’m highly educated and skilled in the field of music.
 
 
 I've been playing both piano and drums for more than 20 years. Also, I’m a music composer and lately I started producing electronic music.

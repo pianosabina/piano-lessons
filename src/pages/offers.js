@@ -11,7 +11,7 @@ const images = [
 
 function Register() {
   return (
-    <Layout title="Register">
+    <Layout title="Tilbud/offers">
       <div>
         {/* <h1> Tilbud/offers </h1> */}
         {/* Use the gallery component with the images array */}
