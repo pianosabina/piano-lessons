@@ -1,9 +1,9 @@
-import React from 'react';
 import Layout from '@theme/Layout';
+import React from 'react';
 
 export default function MyReactPage() {
     return (
-        <Layout>
+        <Layout title="Booking">
             <div className="container">
                 {/* <h1 >Book a lesson</h1> */}
             <Calendly />

@@ -10,9 +10,9 @@ const images = [
   // Add more images as necessary
 ];
 
-function Register() {
+function References() {
   return (
-    <Layout title="Register">
+    <Layout title="Referanser">
       <div>
         {/* <h1> -References- </h1> */}
         {/* Use the gallery component with the images array */}
@@ -22,4 +22,4 @@ function Register() {
   );
 }
 
-export default Register;
+export default References;

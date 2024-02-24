@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function MyReactPage() {
     return (
-        <Layout>
+        <Layout title="Meld på/register">
             <div className="container">
                 {/* <h1 >Book a lesson</h1> */}
             <FormApp />
