@@ -87,7 +87,7 @@ const config = {
             { to: '/references', label: '✨referanser✨ ', position: 'left' },
 
             { to: '/register', label: '✨meld på/register✨', position: 'right' },
-            { to: '/offers', label: 'tilbud/offers', position: 'right' },
+            { to: '/offers', label: '✨tilbud/offers✨', position: 'right' },
             { to: '/booking', label: '✨booking✨', position: 'right' },
             { to: '/contact', label: '✨kontakt✨', position: 'right' },
           {
