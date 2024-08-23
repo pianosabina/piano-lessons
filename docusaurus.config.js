@@ -86,9 +86,9 @@ const config = {
             { to: '/about', label: '✨om/about✨', position: 'left' },
             { to: '/references', label: '✨referanser✨ ', position: 'left' },
 
-            { to: '/register', label: '✨meld på/register✨', position: 'right' },
-            { to: '/offers', label: '✨tilbud/offers✨', position: 'right' },
-            { to: '/booking', label: '✨booking✨', position: 'right' },
+            // { to: '/register', label: '✨meld på/register✨', position: 'right' },
+            // { to: '/offers', label: '✨tilbud/offers✨', position: 'right' },
+            { to: '/booking', label: '✨gratis booking✨', position: 'right' },
             { to: '/contact', label: '✨kontakt✨', position: 'right' },
           {
             href: "https://github.com/facebook/docusaurus",

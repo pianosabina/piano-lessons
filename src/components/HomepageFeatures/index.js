@@ -69,16 +69,16 @@ export default function HomepageFeatures() {
                 <h1></h1>
                 <div className="button-container">
                     <div className="button-row">
-                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('register/')}>
-                            <Translate>Meld på/Register</Translate>
+                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('references/')}>
+                            <Translate>Referanser</Translate>
                         </Link>
-                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('offers/')}>
-                            <Translate>Tilbud/Offers</Translate>
+                        <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('contact/')}>
+                            <Translate>Kontakt</Translate>
                         </Link>
                     </div>
                     <div className="button-row">
                         <Link className={clsx('margin-left--md', styles.indexTryMeButton)} to={useBaseUrl('booking/')}>
-                            <Translate>Booking</Translate>
+                            <Translate>Gratis Booking</Translate>
                         </Link>
                     </div>
                 </div>
